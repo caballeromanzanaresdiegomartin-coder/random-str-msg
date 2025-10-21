@@ -1,2 +1,5 @@
 # random-str-msg
-random string messages
+
+mi primer repositorio 
+
+mi primera contribucion localpara Github 
